@@ -1,0 +1,14 @@
+name: Diabetes
+title: Diabetes
+username:
+account: abhishekchakrabortyds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7827393
+bundleId: 6599188
+url: https://abhishekchakrabortyds.shinyapps.io/Diabetes/
+when: 1670336207.93665
+lastSyncTime: 1670336207.93666
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history
